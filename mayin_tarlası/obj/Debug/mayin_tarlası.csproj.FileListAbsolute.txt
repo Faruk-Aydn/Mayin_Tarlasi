@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\bin\Debug\mayin_tarlası.exe.config
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\bin\Debug\mayin_tarlası.exe
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\bin\Debug\mayin_tarlası.pdb
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\obj\Debug\mayin_tarlası.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\obj\Debug\mayin_tarlası.Properties.Resources.resources
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\obj\Debug\mayin_tarlası.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\obj\Debug\mayin_tarlası.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\obj\Debug\mayin_tarlası.exe
+C:\Users\ASUS\source\repos\mayin_tarlası\mayin_tarlası\obj\Debug\mayin_tarlası.pdb
